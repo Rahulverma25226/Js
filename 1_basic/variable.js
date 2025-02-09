@@ -9,6 +9,6 @@ accountCity = "Delhi";
 
 // console.log(accountId);
 
-// prefer not to use var beacuse it is function scope
+// prefer not to use var beacuse of issue in block scope and functional scope
 
 console.table([accountId, accountEmail, accountPassword, accountCity]);
